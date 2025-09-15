@@ -1,0 +1,1 @@
+print("Hello Yash! Welcome to Quant Journey 🚀")

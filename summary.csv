@@ -1,0 +1,4 @@
+strategy,total_pnl,wins,losses,total_trades,win_rate,avg_pnl
+Strategy A,-44.5,1,1,2,50.0,-22.25
+Strategy B,26.98,1,1,2,50.0,13.49
+Strategy C,1.0,1,0,1,100.0,1.0

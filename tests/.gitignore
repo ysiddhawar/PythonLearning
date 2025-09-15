@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
+
+# Data / output
+*.csv
+*.json
+
+# Editor files
+.vscode/
